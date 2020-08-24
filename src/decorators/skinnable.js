@@ -1,5 +1,5 @@
 import t from 'tcomb';
-import omit from 'lodash/omit';
+import omit from 'lodash.omit';
 import isReactComponent from '../isReactComponent';
 import { shallowEqual } from './pure';
 
